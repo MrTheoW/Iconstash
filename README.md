@@ -7,4 +7,4 @@ Different Icons and logos of and for different apps and things.
 
 Folder|Comment|url
 -|-|-
-MijnAfvalWijzer|Credits for icons go out to the creator of the Home Assistant Sensor.|https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer
+MijnAfvalWijzer|Credits for the original icon style goes to the creator of the Home Assistant Sensor. (I think)|https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer
