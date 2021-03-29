@@ -7,4 +7,9 @@ Different Icons and logos of and for different apps and things.
 
 Folder|Comment|url
 -|-|-
+Apps&Services|Multiple Icons/logos for applications and webservices.|None
+Game Related|Game related icons (like starter icons or icons you can use with StreamPi/StreamDeck)|None
 MijnAfvalWijzer|Credits for the original icon style goes to the creator of the Home Assistant Sensor. (I think)|https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer
+Miscellaneous|All sorts of icons|None
+
+For my contribution to the amazing StreamPi client and server goto [My StreamPi Repo](https://github.com/MrTheoW/StreamPi)
