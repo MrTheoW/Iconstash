@@ -7,7 +7,7 @@ Different Icons and logos of and for different apps and things.
 
 Folder|Comment|url
 -|-|-
-Apps&Services|Multiple Icons/logos for applications and webservices.|
+Apps&Services&Vendors|Multiple Icons/logos for applications and webservices.|
 Apps&Services/Home Assistant/MijnAfvalWijzer|Credits for the original icon style goes to the creator of the Home Assistant Sensor. (I think)|https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer
 Game Related|Game related icons (like starter icons or icons you can use with StreamPi/StreamDeck)|
 Miscellaneous|All sorts of icons|
